@@ -1,6 +1,5 @@
-package com.talhahafeez.myapplication;
+package com.talhahafeez.RecyclerView;
 
-import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,6 +8,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.talhahafeez.RecyclerView.R;
 
 import java.util.List;
 

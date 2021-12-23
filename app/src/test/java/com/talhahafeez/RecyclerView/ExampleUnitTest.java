@@ -1,4 +1,4 @@
-package com.talhahafeez.myapplication;
+package com.talhahafeez.RecyclerView;
 
 import org.junit.Test;
 
